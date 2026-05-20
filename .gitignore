@@ -1,0 +1,10 @@
+# API Keys & Secrets
+.env
+.secrets
+cookies.txt
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+.DS_Store
+output/
