@@ -1,5 +1,11 @@
 # Multi-Agent Collaboration via Obsidian
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/ruatm1-wq/multi-agent-collaboration?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/ruatm1-wq/multi-agent-collaboration?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
+</p>
+
 > **Write a sentence in Obsidian → AI parses it → dispatches to the right Agent → writes result back**
 
 A multi-agent orchestration system powered by Obsidian knowledge base. Turn your note-taking app into an AI command center.
